@@ -6,3 +6,6 @@ sky:
     database: sky_take_out
     username: root
     password: xiaoyuan
+  alioss:
+    endpoint: https://oss-cn-beijing.aliyuncs.com
+    bucket-name: sky-itcast00-0
