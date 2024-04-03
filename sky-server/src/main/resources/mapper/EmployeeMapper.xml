@@ -22,7 +22,7 @@
                 username = #{username},
             </if>
             <if test="password != null">
-                password = #{password}.
+                password = #{password},
             </if>
             <if test="phone != null">
                 phone = #{phone},
